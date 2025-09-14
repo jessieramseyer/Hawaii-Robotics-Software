@@ -57,6 +57,8 @@ This was a team project. My personal contributions included:
 - ROS may have been somewhat overkill for this project, but I chose it for several reasons:
   - Enabled software development and testing before hardware was ready, including visualizing the robot in Rviz and determining safe joint limits to prevent damage during initial testing
   
+  ![rviz](https://github.com/user-attachments/assets/73c5763c-1ca8-4643-a0d9-006abd8b957b)
+
   - Facilitated modular software design and cross-component communication
   - Provided an opportunity to gain hands-on experience with ROS
 
